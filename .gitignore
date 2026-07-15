@@ -1,0 +1,10 @@
+# Keep local development and sensitive material out of this public documentation repository.
+.env
+.env.*
+*.log
+*.token
+*.secret
+*.pfx
+*.key
+secrets/
+logs/
