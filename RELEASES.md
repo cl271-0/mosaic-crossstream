@@ -11,3 +11,4 @@
 - v0.1.1 Release Build280 2026-7-20
 - v0.1.1 Release Build299 2026-7-20
 - v0.2.1 Release Build107 2026-8-3
+- v0.2.2 Release Build8 2026-8-7
